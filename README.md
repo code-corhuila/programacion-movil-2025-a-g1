@@ -8,6 +8,8 @@
 |---------|--------|-------|--------|-----------|--------|---------------------------------|
 | 8:20 pm | 10:00 pm | **Cod. 82751** Prog. 90 Grupo 1 Programación Móvil       |        |           |        | |
 | 6:00 am | 6:50 am |       |        |           |        | **Cod. 82751** Prog. 90 Grupo 1 Programación Móvil |
+
+
 📦 MiAppMovil
 ├── 📂 docs         # Documentación del proyecto
 ├── 📂 backend      # Módulo(s) de backend
